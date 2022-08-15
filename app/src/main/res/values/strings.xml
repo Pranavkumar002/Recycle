@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycle</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_phone">Enter Phone</string>
+</resources>
